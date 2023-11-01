@@ -18,9 +18,9 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # CODE AND OUTPUT:
-Name: ARUN KUMAR SUKDEV CHAVAN
+Name: DHANESH M
 
-Reg no:212222230013
+Reg no:212220220009
 
 ```python
 import seaborn as sns
